@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- title -->
-
 <!--lint ignore no-dead-urls-->
 
 # Awesome Alternatives To Tranditional Commandline Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/dcai/awesome-commandline-alternatives/actions/workflows/lint.yaml/badge.svg)](https://github.com/dcai/awesome-commandline-alternatives/actions/workflows/lint.yaml)
@@ -21,6 +20,7 @@ There are newer tools that might be better suited for you, here is a list!
 - [Alternatives to `ls`](#alternatives-to-ls)
 - [Alternatives to `cd`](#alternatives-to-cd)
 - [Alternatives to `find`](#alternatives-to-find)
+- [Alternatives to `rm`](#alternatives-to-rm)
 - [Alternatives to `sed`](#alternatives-to-sed)
 - [Alternatives to `cat`](#alternatives-to-cat)
 - [Alternatives to `du`](#alternatives-to-du)
@@ -31,7 +31,6 @@ There are newer tools that might be better suited for you, here is a list!
 - [Alternatives to `neofetch`](#alternatives-to-neofetch)
 - [Alternatives to `watch`](#alternatives-to-watch)
 
-<!-- vim-markdown-toc -->
 <!-- CONTENT -->
 
 ## Alternatives to `grep`
@@ -64,6 +63,10 @@ There are newer tools that might be better suited for you, here is a list!
 ## Alternatives to `find`
 
 - [fd](https://github.com/sharkdp/fd)
+
+## Alternatives to `rm`
+
+- [rip](https://github.com/nivekuil/rip)
 
 ## Alternatives to `sed`
 
