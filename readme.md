@@ -3,7 +3,7 @@
 <!-- title -->
 <!--lint ignore no-dead-urls-->
 
-# Awesome Alternatives To Tranditional Commandline Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/dcai/awesome-commandline-alternatives/actions/workflows/lint.yaml/badge.svg)](https://github.com/dcai/awesome-commandline-alternatives/actions/workflows/lint.yaml)
+# Awesome Alternatives To Traditional Commandline Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/dcai/awesome-commandline-alternatives/actions/workflows/lint.yaml/badge.svg)](https://github.com/dcai/awesome-commandline-alternatives/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -11,43 +11,32 @@ There are newer tools that might be better suited for you, here is a list!
 
 </div>
 
-<!-- TOC -->
-
 ## Contents
 
-- [Alternatives to `grep`](#alternatives-to-grep)
-- [Alternatives to `top`](#alternatives-to-top)
 - [Alternatives to `ls`](#alternatives-to-ls)
 - [Alternatives to `cd`](#alternatives-to-cd)
-- [Alternatives to `find`](#alternatives-to-find)
 - [Alternatives to `rm`](#alternatives-to-rm)
-- [Alternatives to `sed`](#alternatives-to-sed)
 - [Alternatives to `cat`](#alternatives-to-cat)
+- [Alternatives to `find`](#alternatives-to-find)
+- [Alternatives to `grep`](#alternatives-to-grep)
+- [Alternatives to `top`](#alternatives-to-top)
+- [Alternatives to `ps`](#alternatives-to-ps)
+- [Alternatives to `sed`](#alternatives-to-sed)
 - [Alternatives to `du`](#alternatives-to-du)
 - [Alternatives to `df`](#alternatives-to-df)
-- [Alternatives to `ps`](#alternatives-to-ps)
 - [Alternatives to `diff`](#alternatives-to-diff)
 - [Alternatives to `loc`](#alternatives-to-loc)
 - [Alternatives to `neofetch`](#alternatives-to-neofetch)
 - [Alternatives to `watch`](#alternatives-to-watch)
-
-<!-- CONTENT -->
-
-## Alternatives to `grep`
-
-- [rg](https://github.com/BurntSushi/ripgrep)
-- [ugrep](https://github.com/Genivia/ugrep)
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher)
-- [jq](https://github.com/stedolan/jq) - JSON processor akin to `sed`, `awk` and `grep`.
-- [xsv](https://github.com/BurntSushi/xsv) - CSV processor.
-
-## Alternatives to `top`
-
-- [btop](https://github.com/aristocratos/btop)
-- [htop](https://github.com/htop-dev/htop)
-- [atop](https://github.com/Atoptool/atop)
-- [glances](https://github.com/nicolargo/glances)
-- [bottom](https://github.com/ClementTsang/bottom)
+- [Alternatives to `man`](#alternatives-to-man)
+- [Alternatives to `ping`](#alternatives-to-ping)
+- [Alternatives to `kill`](#alternatives-to-kill)
+- [Alternatives to `curl`](#alternatives-to-curl)
+- [Alternatives to `ssh`](#alternatives-to-ssh)
+- [Alternatives to `make`](#alternatives-to-make)
+- [Alternatives to `nano`](#alternatives-to-nano)
+- [Alternatives to `nvm`](#alternatives-to-nvm)
+- [Alternatives to database clients](#alternatives-to-database-clients)
 
 ## Alternatives to `ls`
 
@@ -60,22 +49,44 @@ There are newer tools that might be better suited for you, here is a list!
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [autojump](https://github.com/wting/autojump)
 
+## Alternatives to `rm`
+
+- [rip](https://github.com/nivekuil/rip)
+
+## Alternatives to `cat`
+
+- [bat](https://github.com/sharkdp/bat)
+
 ## Alternatives to `find`
 
 - [fd](https://github.com/sharkdp/fd)
 
-## Alternatives to `rm`
+## Alternatives to `grep`
 
-- [rip](https://github.com/nivekuil/rip)
+- [rg](https://github.com/BurntSushi/ripgrep)
+- [ugrep](https://github.com/Genivia/ugrep)
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher)
+- [fzf](https://github.com/junegunn/fzf)
+- [jq](https://github.com/stedolan/jq) - JSON processor akin to `sed`, `awk` and `grep`.
+- [yq](https://github.com/mikefarah/yq) - YAML processor.
+- [xsv](https://github.com/BurntSushi/xsv) - CSV processor.
+
+## Alternatives to `top`
+
+- [btop](https://github.com/aristocratos/btop)
+- [htop](https://github.com/htop-dev/htop)
+- [atop](https://github.com/Atoptool/atop)
+- [glances](https://github.com/nicolargo/glances)
+- [bottom](https://github.com/ClementTsang/bottom)
+
+## Alternatives to `ps`
+
+- [procs](https://github.com/dalance/procs)
 
 ## Alternatives to `sed`
 
 - [sd](https://github.com/chmln/sd)
 - [sad](https://github.com/ms-jpq/sad)
-
-## Alternatives to `cat`
-
-- [bat](https://github.com/sharkdp/bat)
 
 ## Alternatives to `du`
 
@@ -87,10 +98,6 @@ There are newer tools that might be better suited for you, here is a list!
 
 - [duf](https://github.com/muesli/duf)
 - [dfc](https://github.com/Rolinh/dfc)
-
-## Alternatives to `ps`
-
-- [procs](https://github.com/dalance/procs)
 
 ## Alternatives to `diff`
 
@@ -112,9 +119,59 @@ There are newer tools that might be better suited for you, here is a list!
 - [watchexec](https://github.com/watchexec/watchexec)
 - [funzzy](https://github.com/cristianoliveira/funzzy)
 
-<!-- END CONTENT -->
+## Alternatives to `man`
 
-Who else should we be following!?
+- [tldr](https://github.com/tldr-pages/tldr)
+- [tealdeer](https://github.com/dbrgn/tealdeer)
+
+## Alternatives to `ping`
+
+- [mtr](https://github.com/traviscross/mtr)
+- [prettyping](https://github.com/denilsonsa/prettyping)
+
+## Alternatives to `kill`
+
+- [fkill](https://github.com/sindresorhus/fkill-cli)
+
+## Alternatives to `curl`
+
+- [aria2](https://github.com/aria2/aria2)
+- [httpie](https://github.com/httpie/cli)
+- [hurl](https://github.com/Orange-OpenSource/hurl)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+## Alternatives to `ssh`
+
+- [mosh](https://github.com/mobile-shell/mosh)
+
+## Alternatives to `make`
+
+- [just](https://github.com/casey/just)
+<!--lint disable double-link-->
+- [mise](https://github.com/jdx/mise) - Not only task runner, but also version manager (like `asdf`) and `direnv` replacement.
+
+## Alternatives to `nano`
+
+- [vim-nano](https://github.com/vim/vim)
+- [neovim](https://github.com/neovim/neovim)
+- [emacs-nano](https://github.com/emacs-mirror/emacs)
+- [helix-nano](https://github.com/helix-editor/helix)
+- [kak-nano](https://github.com/mawww/kakoune)
+
+## Alternatives to `nvm`
+
+- [asdf-nvm](https://github.com/asdf-vm/asdf)
+<!--lint disable double-link-->
+- [mise](https://github.com/jdx/mise)
+
+## Alternatives to database clients
+
+Alternatives to builtin database clients such as `mysql`, `psql` and `sqlite3`.
+
+- [pgcli](https://github.com/dbcli/pgcli)
+- [mycli](https://github.com/dbcli/mycli)
+- [litecli](https://github.com/dbcli/litecli)
+- [usql](https://github.com/xo/usql)
 
 ## Contributing
 
