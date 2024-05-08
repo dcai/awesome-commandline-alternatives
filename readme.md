@@ -152,11 +152,11 @@ There are newer tools that might be better suited for you, here is a list!
 
 ## Alternatives to `nano`
 
-- [vim-nano](https://github.com/vim/vim)
+- [vim](https://github.com/vim/vim)
 - [neovim](https://github.com/neovim/neovim)
-- [emacs-nano](https://github.com/emacs-mirror/emacs)
-- [helix-nano](https://github.com/helix-editor/helix)
-- [kak-nano](https://github.com/mawww/kakoune)
+- [emacs](https://github.com/emacs-mirror/emacs)
+- [helix](https://github.com/helix-editor/helix)
+- [kakoune](https://github.com/mawww/kakoune)
 
 ## Alternatives to `nvm`
 
