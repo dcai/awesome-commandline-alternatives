@@ -160,7 +160,7 @@ There are newer tools that might be better suited for you, here is a list!
 
 ## Alternatives to `nvm`
 
-- [asdf-nvm](https://github.com/asdf-vm/asdf)
+- [asdf](https://github.com/asdf-vm/asdf)
 <!--lint disable double-link-->
 - [mise](https://github.com/jdx/mise)
 

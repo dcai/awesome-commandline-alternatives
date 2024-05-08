@@ -5,6 +5,7 @@ entr
 fastfetch
 fkill
 funzzy
+kakoune
 litecli
 macchina
 mise
