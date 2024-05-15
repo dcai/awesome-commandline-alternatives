@@ -116,7 +116,7 @@ There are newer tools that might be better suited for you, here is a list!
 - [xonsh](https://github.com/xonsh/xonsh)
 - [nushell](https://github.com/nushell/nushell)
 - [elvish](https://github.com/elves/elvish)
-- [zx](https://github.com/google/zx) - scripting with JavaScript.
+- [zx](https://github.com/google/zx)
 
 ## Alternatives to `neofetch`
 
