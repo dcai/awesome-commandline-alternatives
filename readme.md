@@ -13,30 +13,31 @@ There are newer tools that might be better suited for you, here is a list!
 
 ## Contents
 
-- [Alternatives to `ls`](#alternatives-to-ls)
-- [Alternatives to `cd`](#alternatives-to-cd)
-- [Alternatives to `rm`](#alternatives-to-rm)
-- [Alternatives to `cat`](#alternatives-to-cat)
-- [Alternatives to `find`](#alternatives-to-find)
-- [Alternatives to `grep`](#alternatives-to-grep)
-- [Alternatives to `top`](#alternatives-to-top)
-- [Alternatives to `ps`](#alternatives-to-ps)
-- [Alternatives to `sed`](#alternatives-to-sed)
-- [Alternatives to `du`](#alternatives-to-du)
-- [Alternatives to `df`](#alternatives-to-df)
-- [Alternatives to `diff`](#alternatives-to-diff)
-- [Alternatives to `loc`](#alternatives-to-loc)
-- [Alternatives to `neofetch`](#alternatives-to-neofetch)
-- [Alternatives to `watch`](#alternatives-to-watch)
-- [Alternatives to `man`](#alternatives-to-man)
-- [Alternatives to `ping`](#alternatives-to-ping)
-- [Alternatives to `kill`](#alternatives-to-kill)
-- [Alternatives to `curl`](#alternatives-to-curl)
-- [Alternatives to `ssh`](#alternatives-to-ssh)
-- [Alternatives to `make`](#alternatives-to-make)
-- [Alternatives to `nano`](#alternatives-to-nano)
-- [Alternatives to `nvm`](#alternatives-to-nvm)
-- [Alternatives to database clients](#alternatives-to-database-clients)
+* [Alternatives to `ls`](#alternatives-to-ls)
+* [Alternatives to `cd`](#alternatives-to-cd)
+* [Alternatives to `rm`](#alternatives-to-rm)
+* [Alternatives to `cat`](#alternatives-to-cat)
+* [Alternatives to `find`](#alternatives-to-find)
+* [Alternatives to `grep`](#alternatives-to-grep)
+* [Alternatives to `top`](#alternatives-to-top)
+* [Alternatives to `ps`](#alternatives-to-ps)
+* [Alternatives to `sed`](#alternatives-to-sed)
+* [Alternatives to `du`](#alternatives-to-du)
+* [Alternatives to `df`](#alternatives-to-df)
+* [Alternatives to `diff`](#alternatives-to-diff)
+* [Alternatives to `loc`](#alternatives-to-loc)
+* [Alternatives to `bash`](#alternatives-to-bash)
+* [Alternatives to `neofetch`](#alternatives-to-neofetch)
+* [Alternatives to `watch`](#alternatives-to-watch)
+* [Alternatives to `man`](#alternatives-to-man)
+* [Alternatives to `ping`](#alternatives-to-ping)
+* [Alternatives to `kill`](#alternatives-to-kill)
+* [Alternatives to `curl`](#alternatives-to-curl)
+* [Alternatives to `ssh`](#alternatives-to-ssh)
+* [Alternatives to `make`](#alternatives-to-make)
+* [Alternatives to `nano`](#alternatives-to-nano)
+* [Alternatives to `nvm`](#alternatives-to-nvm)
+* [Alternatives to database clients](#alternatives-to-database-clients)
 
 ## Alternatives to `ls`
 
@@ -107,6 +108,15 @@ There are newer tools that might be better suited for you, here is a list!
 ## Alternatives to `loc`
 
 - [tokei](https://github.com/XAMPPRocky/tokei)
+
+## Alternatives to `bash`
+
+- [fish](https://github.com/fish-shell/fish-shell)
+- [zsh](https://github.com/zsh-users/zsh)
+- [xonsh](https://github.com/xonsh/xonsh)
+- [nushell](https://github.com/nushell/nushell)
+- [elvish](https://github.com/elves/elvish)
+- [zx](https://github.com/google/zx) - scripting with javascript
 
 ## Alternatives to `neofetch`
 
