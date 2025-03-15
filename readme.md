@@ -145,10 +145,11 @@ There are newer tools that might be better suited for you, here is a list!
 
 ## Alternatives to `curl`
 
-- [aria2](https://github.com/aria2/aria2)
 - [httpie](https://github.com/httpie/cli)
+- [xh](https://github.com/ducaale/xh)
 - [hurl](https://github.com/Orange-OpenSource/hurl)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [aria2](https://github.com/aria2/aria2)
 
 ## Alternatives to `ssh`
 
